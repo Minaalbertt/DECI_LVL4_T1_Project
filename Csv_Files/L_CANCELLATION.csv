@@ -1,7 +1,0 @@
-CANCELLATION_CODE,Description,Sum(Cancelled)
-"-","Unknown",0
-"A","Carrier",30189
-"B","Weather",50483
-"C","National Air System",11488
-"D","Security",4
-"All Rows","All Rows (including those not displayed)",92164
